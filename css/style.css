@@ -189,6 +189,10 @@ section {
   .about-content .right {
     width: 100%;
   }
+  .home {
+    background-size: scroll;
+    /* width: 100%; */
+  }
   section {
     padding: 5% 5%;
     /* margin: 50px auto; */
@@ -240,6 +244,10 @@ section {
   .about-content .right {
     width: 100%;
   }
+  .home {
+    background-size: scroll;
+    /* width: 100%; */
+  }
   .max-width {
     padding: 0 20px;
   }
@@ -286,6 +294,10 @@ section {
 @media only screen and (min-width: 1024px) {
   .about-content .right {
     width: 500px;
+  }
+  .home {
+    background-size: scroll;
+    /* width: 100%; */
   }
   .max-width {
     padding: 0 50px;
