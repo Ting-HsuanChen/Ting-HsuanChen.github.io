@@ -295,10 +295,7 @@ section {
   .about-content .right {
     width: 500px;
   }
-  .home {
-    background-attachment: scroll;
-    /* width: 100%; */
-  }
+
   .max-width {
     padding: 0 50px;
   }
