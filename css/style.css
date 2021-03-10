@@ -190,7 +190,7 @@ section {
     width: 100%;
   }
   .home {
-    background-size: scroll;
+    background-attachment: scroll;
     /* width: 100%; */
   }
   section {
@@ -245,7 +245,7 @@ section {
     width: 100%;
   }
   .home {
-    background-size: scroll;
+    background-attachment: scroll;
     /* width: 100%; */
   }
   .max-width {
@@ -296,7 +296,7 @@ section {
     width: 500px;
   }
   .home {
-    background-size: scroll;
+    background-attachment: scroll;
     /* width: 100%; */
   }
   .max-width {
